@@ -8,11 +8,11 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyCT1FajldYpzqHckaqPgbSz7YgvKfgHlgU",
-        appId: "1:484592064169:web:7dec39216e48f753f9fbb8",
+        apiKey: "",
+        appId: "",
         messagingSenderId: "484592064169",
-        projectId: "webapp-ccea9",
-        storageBucket: "webapp-ccea9.firebasestorage.app",
+        projectId: "",
+        storageBucket: "",
       ),
     );
   } else {
