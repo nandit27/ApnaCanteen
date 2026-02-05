@@ -1,0 +1,2 @@
+/Users/nanditkalaria/Downloads/DSCWOW-CANTEEN_MANAGEMENT-main/admin_app/android/app/.cxx/debug/4i665554/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nanditkalaria/Downloads/DSCWOW-CANTEEN_MANAGEMENT-main/admin_app/android/app/.cxx/debug/4i665554/armeabi-v7a/CMakeFiles/rebuild_cache.dir

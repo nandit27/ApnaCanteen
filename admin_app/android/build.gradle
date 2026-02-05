@@ -1,0 +1,5 @@
+// All plugins are declared in settings.gradle
+
+subprojects {
+    project.evaluationDependsOn(':app')
+}
